@@ -1,3 +1,7 @@
+#ABOUT
+
+**Expert in digital transformation of corporate governance, financial and tax functions, international transactions and in the field of artificial intelligence implementation. Driving strategic growth, optimizing complex financial/operational structures, building robust governance. Multi-disciplinary academic foundation includes a Ph.D. in AI (MIPT, 2026; ALM, Harvard), Economics (Ph.D.), Law (LL.M.), and Business (MBA, TRIUM). Pioneering research on Autonomous Board Systems (BoardMachines.com).**
+
 # EDUCATION
 
 * **Graduate, UNECON**
