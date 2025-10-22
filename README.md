@@ -1,4 +1,4 @@
-# AI Visionary & Corporate Leader | Building Autonomous Governance Systems | TRIUM Global EMBA | Author | Speaker
+### AI Visionary & Corporate Leader | Building Autonomous Governance Systems | TRIUM Global EMBA | Author | Speaker
 
 # ABOUT
 
