@@ -1,5 +1,9 @@
 # [Linkedin](https://www.linkedin.com/in/romanovaanna/) | [ORCID](https://orcid.org/0009-0004-4649-6037) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5641186) | [Arxiv](https://arxiv.org/a/romanova_a_1.html) | [ResearchGate](https://www.researchgate.net/profile/Anna-Romanova-17) | [GitHub](https://github.com/iboard-project) | Blog
 
+# EXPERTISE
+
+CorpTech & AI Strategy * Strategic M&A & Global Expansion * ERP (SAP) & Digital Transformation * Tax & Transfer Pricing Consulting
+
 # ABOUT
 
 **Expert in digital transformation of corporate governance, financial and tax functions, international transactions and in the field of artificial intelligence implementation. Driving strategic growth, optimizing complex financial/operational structures, building robust governance. Multi-disciplinary academic foundation includes a Ph.D. in AI (MIPT, 2026; ALM, Harvard), Economics (Ph.D.), Law (LL.M.), and Business (MBA, TRIUM). Pioneering research on Autonomous Board Systems (BoardMachines.com).**
