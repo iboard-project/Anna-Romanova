@@ -1,3 +1,15 @@
+# REVIEWER
+* **The 5th International Conference on Machine Learning Techniques and NLP (MLNLP 2024)**
+* **The 6th International Conference on Cloud and Internet of Things (ICCIoT 2025)**
+* **The 8th International Conference on Natural Language Processing and Trends (NATAP 2025)**
+* **The 3rd International Conference on Data Mining, Big Data and Machine Learning (DBML 2025)**
+* **The 17th International Conference on Networks & Communications (NeCoM 2025)**
+* **7th International Conference on Machine Learning & Applications (CMLA 2025)**
+* **12th International Conference on Computer Science, Engineering and Information Technology**
+* **The 6th International Conference on Machine Learning Techniques and Data Science, London**
+* **The European Journal of Computer Sciences and Informatics**
+* **The 3rd International Conference on Clinical and Medical Sciences (CAMS 2025)**
+
 # PUBLICATIONS
 * **Development of autonomous artificial intelligence systems for corporate management, 2023**
 * **Analysis of the problems of developing autonomous artificial intelligence systems for corporate management, 2023**
