@@ -10,6 +10,27 @@
 * **The European Journal of Computer Sciences and Informatics**
 * **The 3rd International Conference on Clinical and Medical Sciences (CAMS 2025)**
 
+# CONFERENCES
+
+* **The OpenTalks.AI 2023**
+* **The 65th All - Russian Scientific Conference of MIPT, 2023**
+* **The All-Russian interdisciplinary seminar "Artificial Personality Project" of the Scientific Council under the Presidium of the Russian Academy of Sciences on the Methodology of Artificial Intelligence and Cognitive Research, 2023**
+* **The First Russian Conference “Consciousness, Body, Intelligence and Language in the Era of Cognitive Technologies”, 2023**
+* **The round table “Robophilosophy: an interdisciplinary approach” (Congress “Russian Engineer”, conference “Bionics - 2023”**
+* **The conference “HES. Digital. Law”, 2024**
+* **The 66th All - Russian Scientific Conference of MIPT, 2024**
+* **The 12th international conference "Artificial Intelligence and Natural Language", 2024**
+* **The CGI Russia round table “Digitalisation of corporate governance: will enter AI board of directors ?”, 2024**
+* **The III International Scientific and Practical Conference “Digital Technologies and Law”, 2024**
+* **The Ninth All-Russian scientific and practical conference with international participation "Artificial intelligence in solving urgent social and economic problems of the 21st century", 2024**
+* **The round table “AI in business, industry and legal issues”, 2024**
+* **The international interdisciplinary conference “Philosophy of Artificial Intelligence” (NSMI RAS), 2024**
+* **The XXVI International Scientific and Technical Conference “Neuroinformatics - 2024”**
+* **The II All-Russian Congress with international participation “Russian Engineer”, 2024**
+* **The First International Conference Artificial Intelligence Research (AIR) (UAE), 2024**
+* **The 13th international conference "Artificial Intelligence and Natural Language", 2025**
+* **The International symposium "75 years of the Turing test", 2025**
+
 # PUBLICATIONS
 * **Development of autonomous artificial intelligence systems for corporate management, 2023**
 * **Analysis of the problems of developing autonomous artificial intelligence systems for corporate management, 2023**
