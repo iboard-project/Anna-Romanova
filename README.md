@@ -1,3 +1,5 @@
+# [Email](anna.romanova@stern.nyu.edu) | [Linkedin](https://www.linkedin.com/in/romanovaanna/) | ORCID | SSRN | Arxiv | ResearchGate | GitHub | Blog
+
 ### AI Visionary & Corporate Leader | Building Autonomous Governance Systems | TRIUM Global EMBA | Author | Speaker
 
 # ABOUT
