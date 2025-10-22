@@ -1,5 +1,6 @@
 # EDUCATION
 
+* **Graduate, UNECON**
 * **Ph.D., UNECON**
 * **LL.M., University of Neufchatel**
 * **MBA, TRIUM**
