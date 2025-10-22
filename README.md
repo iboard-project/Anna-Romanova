@@ -1,3 +1,11 @@
+# EDUCATION
+
+* **Ph.D., UNECON**
+* **LL.M., University of Neufchatel**
+* **MBA, TRIUM**
+* **ALM, Harvard**
+* **Postgraduate, MIPT**
+
 # REVIEWER
 * **The 5th International Conference on Machine Learning Techniques and NLP (MLNLP 2024)**
 * **The 6th International Conference on Cloud and Internet of Things (ICCIoT 2025)**
