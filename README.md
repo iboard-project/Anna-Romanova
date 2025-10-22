@@ -1,4 +1,4 @@
-## [Linkedin](https://www.linkedin.com/in/romanovaanna/) | [ORCID](https://orcid.org/0009-0004-4649-6037) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5641186) | [Arxiv](https://arxiv.org/a/romanova_a_1.html) | [ResearchGate](https://www.researchgate.net/profile/Anna-Romanova-17) | [GitHub](https://github.com/iboard-project) | Blog
+## [Linkedin](https://www.linkedin.com/in/romanovaanna/) | [ORCID](https://orcid.org/0009-0004-4649-6037) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5641186) | [Arxiv](https://arxiv.org/a/romanova_a_1.html) | [ResearchGate](https://www.researchgate.net/profile/Anna-Romanova-17) | [GitHub](https://github.com/iboard-project) | [Experiment](https://boardmachines.com/) | Blog
 
 
 
