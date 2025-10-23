@@ -1,4 +1,4 @@
-### Anna Romanova's personal page
+### Anna Romanova's personal web page
 
 ## [Linkedin](https://www.linkedin.com/in/romanovaanna/) | [ORCID](https://orcid.org/0009-0004-4649-6037) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5641186) | [Arxiv](https://arxiv.org/a/romanova_a_1.html) | [ResearchGate](https://www.researchgate.net/profile/Anna-Romanova-17) | [Semantic Scholar](https://www.semanticscholar.org/author/Anna-Romanova/120301332) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=SC5g0A0AAAAJ) | [GitHub](https://github.com/iboard-project) | [Youtube](https://www.youtube.com/@annaromanova7380) | [Experiment](https://iboard-project.github.io/Experiment/) | [Blog](https://boardmachines.com/)
 
