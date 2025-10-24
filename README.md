@@ -18,8 +18,8 @@
 
 # EDUCATION
 
-* **Graduate, UNECON**
-* **Ph.D., UNECON**
+* **Graduate, UNECON(СПбГУЭФ)**
+* **Ph.D., UNECON(СПбГУЭФ)**
 * **LL.M., University of Neufchatel**
 * **MBA, TRIUM**
 * **ALM, Harvard**
