@@ -25,7 +25,8 @@
 * **ALM, Harvard**
 * **Postgraduate, MIPT**
 
-# REVIEWER
+# REVIEWER / ЭКСПЕРТ
+
 * **The 5th International Conference on Machine Learning Techniques and NLP (MLNLP 2024)**
 * **The 6th International Conference on Cloud and Internet of Things (ICCIoT 2025)**
 * **The 8th International Conference on Natural Language Processing and Trends (NATAP 2025)**
@@ -37,7 +38,7 @@
 * **The European Journal of Computer Sciences and Informatics**
 * **The 3rd International Conference on Clinical and Medical Sciences (CAMS 2025)**
 
-# CONFERENCES
+# CONFERENCES / КОНФЕРЕНЦИИ
 
 * **The OpenTalks.AI 2023**
 * **The 65th All - Russian Scientific Conference of MIPT, 2023**
@@ -58,7 +59,8 @@
 * **The 13th international conference "Artificial Intelligence and Natural Language", 2025**
 * **The International symposium "75 years of the Turing test", 2025**
 
-# PUBLICATIONS
+# PUBLICATIONS / ПУБЛИКАЦИИ
+
 * **Development of autonomous artificial intelligence systems for corporate management, 2023**
 * **Analysis of the problems of developing autonomous artificial intelligence systems for corporate management, 2023**
 * **Artificial Chairman of the Board of Directors of a Corporation (Analysis of the Problems of Developing Autonomous Artificial Intelligence Systems for Corporate Management), 2023**
