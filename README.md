@@ -38,7 +38,7 @@
 * **The European Journal of Computer Sciences and Informatics**
 * **The 3rd International Conference on Clinical and Medical Sciences (CAMS 2025)**
 
-# TEACHING
+# TEACHING / ПРЕПОДАВАНИЕ
 
 * **Python**
 * **International Taxation**
