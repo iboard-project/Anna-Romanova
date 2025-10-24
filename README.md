@@ -18,12 +18,12 @@
 
 # EDUCATION
 
-* **Graduate, UNECON(СПбГУЭФ)**
-* **Ph.D., UNECON(СПбГУЭФ)**
+* **Graduate, UNECON (СПбГУЭФ)**
+* **Ph.D., UNECON (СПбГУЭФ)**
 * **LL.M., University of Neufchatel**
 * **MBA, TRIUM**
 * **ALM, Harvard**
-* **Postgraduate, MIPT(МФТИ)**
+* **Postgraduate, MIPT (МФТИ)**
 
 # REVIEWER / ЭКСПЕРТ
 
@@ -76,4 +76,10 @@
 * **Philosophical problems of cyborgization of the human brain, 2025**
 * **Prototype of a model for making legitimate and ethical decisions by autonomous artificial intelligence systems in corporate management, 2025**
 * **Analysis of interface informativeness issues in developing autonomous artificial intelligence systems for corporate management, 2025**
+
+# CERTIFICATES
+
+* **FCCA**
+* **Data Science**
+
 
