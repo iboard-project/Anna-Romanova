@@ -16,7 +16,7 @@
 
 **Author Page:** https://orcid.org/0009-0004-4649-6037 / http://arxiv.org/a/romanova_a_1 / https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5641186 / https://www.semanticscholar.org/author/Anna-Romanova/120301332
 
-# EDUCATION
+# EDUCATION / ОБРАЗОВАНИЕ
 
 * **Graduate, UNECON (СПбГУЭФ)**
 * **Ph.D., UNECON (СПбГУЭФ)**
