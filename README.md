@@ -23,7 +23,7 @@
 * **LL.M., University of Neufchatel**
 * **MBA, TRIUM**
 * **ALM, Harvard**
-* **Postgraduate, MIPT**
+* **Postgraduate, MIPT(МФТИ)**
 
 # REVIEWER / ЭКСПЕРТ
 
