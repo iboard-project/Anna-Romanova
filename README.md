@@ -4,11 +4,11 @@
 
 
 
-# EXPERTISE
+# EXPERTISE / ЭКСПЕРТИЗА
 
 **CorpTech & AI Strategy * Strategic M&A & Global Expansion * ERP (SAP) & Digital Transformation * Tax & Transfer Pricing Consulting**
 
-# ABOUT
+# ABOUT / О СЕБЕ
 
 **Expert in digital transformation of corporate governance, financial and tax functions, international transactions and in the field of artificial intelligence implementation. Driving strategic growth, optimizing complex financial/operational structures, building robust governance. Multi-disciplinary academic foundation includes a Ph.D. in AI (MIPT, 2026; ALM, Harvard), Economics (Ph.D.), Law (LL.M.), and Business (MBA, TRIUM). Pioneering research on Autonomous Board Systems (BoardMachines.com).**
 
@@ -82,7 +82,7 @@
 * **Prototype of a model for making legitimate and ethical decisions by autonomous artificial intelligence systems in corporate management, 2025**
 * **Analysis of interface informativeness issues in developing autonomous artificial intelligence systems for corporate management, 2025**
 
-# CERTIFICATES
+# CERTIFICATES / СЕРТИФИКАТЫ
 
 * **FCCA**
 * **Data Science**
