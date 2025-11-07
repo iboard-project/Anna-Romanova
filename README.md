@@ -84,7 +84,7 @@
 
 # CERTIFICATES / СЕРТИФИКАТЫ
 
-* **FCCA**
-* **Data Science**
+* **FCCA (ACCA)**
+* **Data Science (Harvard)**
 
 
