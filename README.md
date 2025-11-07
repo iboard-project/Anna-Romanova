@@ -86,5 +86,9 @@
 
 * **FCCA (ACCA)**
 * **Data Science (Harvard)**
+* **Artificial Intelligence: Implications for Business Strategy (MIT Sloan Executive Education)**
+* **GPT Week (Yandex)**
+* **Advanced LLM Agents MOOC Spring 2025 (The Berkeley Center for Responsible, Decentralized Intelligence (RDI))**
+* **Google Project Management Certificate (Coursera)**
 
 
