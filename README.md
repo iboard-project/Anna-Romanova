@@ -20,7 +20,7 @@
 
 * **Graduate, UNECON (СПбГУЭФ)**
 * **Ph.D., UNECON (СПбГУЭФ)**
-* **LL.M., University of Neufchatel**
+* **LL.M., University of Neuchâtel**
 * **MBA, TRIUM**
 * **ALM, Harvard**
 * **Postgraduate, MIPT (МФТИ)**
