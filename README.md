@@ -82,7 +82,11 @@
 * **Prototype of a model for making legitimate and ethical decisions by autonomous artificial intelligence systems in corporate management, 2025**
 * **Analysis of interface informativeness issues in developing autonomous artificial intelligence systems for corporate management, 2025**
 
-# CERTIFICATES / СЕРТИФИКАТЫ
+# Patents, certificates / ПАТЕНТЫ, СЕРТИФИКАТЫ
+
+* **Software prototype of the AI director system, 2025**
+
+# PROFESSIONAL CERTIFICATES / ПРОФЕССИОНАЛЬНЫЕ СЕРТИФИКАТЫ
 
 * **FCCA (ACCA)**
 * **Data Science (Harvard)**
