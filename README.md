@@ -82,7 +82,7 @@
 * **Prototype of a model for making legitimate and ethical decisions by autonomous artificial intelligence systems in corporate management, 2025**
 * **Analysis of interface informativeness issues in developing autonomous artificial intelligence systems for corporate management, 2025**
 
-# Patents, certificates / ПАТЕНТЫ, СЕРТИФИКАТЫ
+# PATENTS, CERTIFICATES / ПАТЕНТЫ, СЕРТИФИКАТЫ
 
 * **Software prototype of the AI director system, 2025**
 
