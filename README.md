@@ -85,6 +85,7 @@
 # PATENTS, CERTIFICATES / ПАТЕНТЫ, СЕРТИФИКАТЫ
 
 * **Software prototype of the AI director system, 2025**
+* **Synthetic scenarios for training and testing the AI director, 2026**
 
 # PROFESSIONAL CERTIFICATES / ПРОФЕССИОНАЛЬНЫЕ СЕРТИФИКАТЫ
 
