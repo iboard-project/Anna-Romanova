@@ -63,6 +63,7 @@
 * **The First International Conference Artificial Intelligence Research (AIR) (UAE), 2024**
 * **The 13th international conference "Artificial Intelligence and Natural Language", 2025**
 * **The International symposium "75 years of the Turing test", 2025**
+* **The International Interdisciplinary Conference "Artificial Intelligence and Digital Reality" Symposium: Digital Zombies Among Us**
 
 # PUBLICATIONS / ПУБЛИКАЦИИ
 
