@@ -10,7 +10,15 @@
 
 # ABOUT / О СЕБЕ
 
-**Expert in digital transformation of corporate governance, financial and tax functions, international transactions and in the field of artificial intelligence implementation. Driving strategic growth, optimizing complex financial/operational structures, building robust governance. Multi-disciplinary academic foundation includes a Ph.D. in AI (MIPT, 2026; ALM, Harvard), Economics (Ph.D.), Law (LL.M.), and Business (MBA, TRIUM). Pioneering research on Autonomous Board Systems (BoardMachines.com).**
+Ph.D. in Economics, UNECON, 2000 | LL.M., University of Neuchâtel, 2012 | MBA, TRIUM, 2014 | ALM, Harvard, 2021 | Postgraduate in AI and ML, MIPT, 2025
+
+Anna graduated from the St. Petersburg State University of Economics and Finance (Ph.D. in Economics), earned a Master's degree in International Taxation from the University of Neuchâtel, completed the TRIUM Global Executive MBA program, earned a Master's degree in Software Engineering from Harvard University, and completed a postgraduate program in Artificial Intelligence and Machine Learning at the Moscow Institute of Physics and Technology.
+
+She is an expert in the field of digital transformation — Ph.D., MBA, LL.M., ALM, FCCA — with over 20 years of experience at major Russian and international companies. She is also a lecturer at GSOM SPbU.
+
+Anna is the author of numerous scientific publications and reports on the development of autonomous AI systems for corporate management.
+
+Current research: autonomous director and autonomous Board of Directors systems based on AI and ML.
 
 **Contacts:** anna.romanova@stern.nyu.edu / romanova.as@phystech.edu / anna.romanova@alumni.harvard.edu / @romanovaanna3 / https://www.linkedin.com/in/romanovaanna / https://github.com/iboard-project
 
