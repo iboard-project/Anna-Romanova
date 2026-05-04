@@ -10,7 +10,7 @@
 
 # ABOUT / О СЕБЕ
 
-Ph.D. in Economics, UNECON, 2000 | LL.M., University of Neuchâtel, 2012 | MBA, TRIUM, 2014 | ALM, Harvard, 2021 | Postgraduate in AI and ML, MIPT, 2025
+Ph.D. in Economics, UNECON, 2000 * LL.M., University of Neuchâtel, 2012 * MBA, TRIUM, 2014 * ALM, Harvard, 2021 * Postgraduate in AI and ML, MIPT, 2025
 
 Anna graduated from the St. Petersburg State University of Economics and Finance (Ph.D. in Economics), earned a Master's degree in International Taxation from the University of Neuchâtel, completed the TRIUM Global Executive MBA program, earned a Master's degree in Software Engineering from Harvard University, and completed a postgraduate program in Artificial Intelligence and Machine Learning at the Moscow Institute of Physics and Technology.
 
