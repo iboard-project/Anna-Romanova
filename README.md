@@ -90,6 +90,7 @@ Current research: autonomous director and autonomous Board of Directors systems 
 * **Philosophical problems of cyborgization of the human brain, 2025**
 * **Prototype of a model for making legitimate and ethical decisions by autonomous artificial intelligence systems in corporate management, 2025**
 * **Analysis of interface informativeness issues in developing autonomous artificial intelligence systems for corporate management, 2025**
+* **Modeling of Autonomous Artificial Intelligence Systems for Corporate Management, 2026**
 
 # PATENTS, CERTIFICATES / ПАТЕНТЫ, СЕРТИФИКАТЫ
 
