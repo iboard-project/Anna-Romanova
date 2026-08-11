@@ -22,7 +22,7 @@ Current research: autonomous director and autonomous Board of Directors systems 
 
 **Contacts:** anna.romanova@stern.nyu.edu / romanova.as@phystech.edu / anna.romanova@alumni.harvard.edu / @romanovaanna3 / https://www.linkedin.com/in/romanovaanna / https://github.com/iboard-project
 
-**Author Page:** https://orcid.org/0009-0004-4649-6037 / http://arxiv.org/a/romanova_a_1 / https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5641186 / https://www.semanticscholar.org/author/Anna-Romanova/120301332
+**Author Page:** https://orcid.org/0009-0004-4649-6037 / http://arxiv.org/a/romanova_a_1 / https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5641186 / https://www.semanticscholar.org/author/Anna-Romanova/120301332 / https://link.springer.com/researchers/92078629SN
 
 # EDUCATION / ОБРАЗОВАНИЕ
 
