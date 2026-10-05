@@ -72,6 +72,7 @@ Current research: autonomous director and autonomous Board of Directors systems 
 * **The 13th international conference "Artificial Intelligence and Natural Language", 2025**
 * **The International symposium "75 years of the Turing test", 2025**
 * **The International Interdisciplinary Conference "Artificial Intelligence and Digital Reality" Symposium: Digital Zombies Among Us**
+* **The ХIII Annual International Scientific "Economy & Management" Conference 2026 (EMC 2026)**
 
 # PUBLICATIONS / ПУБЛИКАЦИИ
 
