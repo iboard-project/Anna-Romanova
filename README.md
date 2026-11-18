@@ -92,6 +92,7 @@ Current research: autonomous director and autonomous Board of Directors systems 
 * **Prototype of a model for making legitimate and ethical decisions by autonomous artificial intelligence systems in corporate management, 2025**
 * **Analysis of interface informativeness issues in developing autonomous artificial intelligence systems for corporate management, 2025**
 * **Modeling of Autonomous Artificial Intelligence Systems for Corporate Management, 2026**
+* **Autonomous AI Systems for Corporate Governance: A Framework Bridging Computational Law, Operational Context, and Multi-level Oversight, 2026**
 
 # PATENTS, CERTIFICATES / ПАТЕНТЫ, СЕРТИФИКАТЫ
 
@@ -106,5 +107,6 @@ Current research: autonomous director and autonomous Board of Directors systems 
 * **GPT Week (Yandex)**
 * **Advanced LLM Agents MOOC Spring 2025 (The Berkeley Center for Responsible, Decentralized Intelligence (RDI))**
 * **Google Project Management Certificate (Coursera)**
+
 
 
