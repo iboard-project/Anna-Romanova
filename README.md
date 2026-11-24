@@ -14,7 +14,7 @@ Ph.D. in Economics, UNECON, 2000 * LL.M., University of Neuchâtel, 2012 * MBA, 
 
 Anna graduated from the St. Petersburg State University of Economics and Finance (Ph.D. in Economics), earned a Master's degree in International Taxation from the University of Neuchâtel, completed the TRIUM Global Executive MBA program, earned a Master's degree in Software Engineering from Harvard University, and completed a postgraduate program in Artificial Intelligence and Machine Learning at the Moscow Institute of Physics and Technology.
 
-She is an expert in the field of digital transformation — Ph.D., MBA, LL.M., ALM, FCCA — with over 20 years of experience at major Russian and international companies. She is also a lecturer at GSOM SPbU.
+She is an expert in the field of digital transformation — Ph.D., MBA, LL.M., ALM, FCCA — with over 20 years of experience at major Russian and international companies. She previously lectured at GSOM SPbU and currently supervises doctoral students at Synergy University.
 
 Anna is the author of numerous scientific publications and reports on the development of autonomous AI systems for corporate management.
 
