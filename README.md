@@ -48,6 +48,7 @@ Current research: autonomous director and autonomous Board of Directors systems 
 
 # TEACHING / ПРЕПОДАВАНИЕ
 
+* **1.2.1 AI and ML**
 * **Python**
 * **International Taxation**
 
